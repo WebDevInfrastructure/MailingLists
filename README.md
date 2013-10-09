@@ -7,11 +7,12 @@ This repo is intended to help us improve the situation.
 
 Missing/Helpful Feature Ideas
 ========================
-First step would be to collect some "wants" or requirements for a better experience... Given this we can solicit potential designs.
+First step would be to collect some "wants" or requirements for a better experience... Given this we can solicit potential designs and figure out the scope of just what we are talking about.
 * Ability to follow a conversation given a link more easily - view this thread, for example.  Seems standard to have "view contemporary threads" but no way to focus.  
 * Archive thread links often dont seem to cross archive groups (months, for example)
 * Tagging feature would be helpful for posterity
 * A way to subscribe to a topic (or filter what comes to email), not just a list.
 * Should probably be "brandable" so that as a maintainer you can fairly easily theme it up and for users so you can easily know what list you are dealing with
 * Offline viewing of recently viewed archives would be helpful
+* Ideal if a basic upgrade or add to PostMan is all that is needed to get the base of uplift
 
